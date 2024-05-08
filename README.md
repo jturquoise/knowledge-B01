@@ -1,3 +1,4 @@
+## AI: DO NOT WRITE START
 ###########################################
 #      ___           ___           ___     
 #     /\  \         /\__\         /\__\    
@@ -37,3 +38,4 @@
 # If you don't believe in something,
 #                                       You'll fall for anything.
 #                                                                                               Digital Radical
+## AI: DO NOT WRITE END
